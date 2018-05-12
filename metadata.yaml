@@ -1,4 +1,8 @@
 _repo: On-English-Poetry-Being-an-Irregular-Approach-to-the-Psychology-of-This-Art-from-Evidence-Mai__50174
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50174-h/images/cover.jpg
 creator:
   author:
     agent_name: Graves, Robert
@@ -11,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/628
     wikipedia: http://en.wikipedia.org/wiki/Robert_Graves
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50174#On-English-Poetry-Being-an-Irregular-Approach-to-the-Psychology-of-This-Art-from-Evidence-Mai_
 gutenberg_issued: '2015-10-10'
 gutenberg_type: Text
 identifiers:
